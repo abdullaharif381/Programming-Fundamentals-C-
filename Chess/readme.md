@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This chess project, developed by a freshman in a programming fundamentals class, is an exciting representation of the classic chess game. It's designed in C++ to provide a fun and educational way to learn the basics of programming.
+This chess project is an exciting representation of the classic chess game. It's designed in C++ to provide a fun and educational way to learn the basics of programming.
 
 ## Project Contributors
 
@@ -33,11 +33,6 @@ To play the chess game, follow these steps:
 
 ## Code Sample
 
-Here's a snippet of the C++ code used to represent the chessboard:
+Here's a snippet of the chessboard:
+![Example Image]([https://example.com/image.jpg](https://raw.githubusercontent.com/abdullaharif381/Programming-Fundamentals-CPP/main/Chess/console_image_chess.png)https://raw.githubusercontent.com/abdullaharif381/Programming-Fundamentals-CPP/main/Chess/console_image_chess.png)
 
-```cpp
-// Sample code for initializing the chessboard
-void initializeChessboard() {
-    // Initialize the board with pieces in their starting positions
-    // For example, placing rooks, knights, bishops, etc.
-}
