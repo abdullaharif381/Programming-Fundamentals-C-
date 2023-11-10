@@ -34,4 +34,6 @@ To play the chess game, follow these steps:
 ## Code Sample
 
 Here's a snippet of the chessboard:
-![Example Image](![Alt Text](https://github.com/abdullaharif381/Programming-Fundamentals-CPP/main/Chess/console_image_chess.png)
+![Alt Text](https://github.com/abdullaharif381/Programming-Fundamentals-CPP/blob/main/Chess/console_image_chess.png)
+
+
