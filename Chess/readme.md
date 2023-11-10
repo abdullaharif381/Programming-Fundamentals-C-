@@ -36,4 +36,19 @@ To play the chess game, follow these steps:
 Here's a snippet of the chessboard:
 ![Alt Text](https://github.com/abdullaharif381/Programming-Fundamentals-CPP/blob/main/Chess/console_image_chess.png)
 
+## Project Statement (Summary):
+### Chess Logic/Rules/General functionalities of the program
 
+- Set up a chess board with standard labeling of rows (1 to 8) and columns (a to h).
+- Allow two players to make alternate moves.
+- Check for invalid moves, including criteria like source square containing the current player's piece, valid move for the selected piece, and removal of check.
+- Detect special conditions like check, checkmate, stalemate, castling, en passant, and pawn promotion.
+- Offer classical, rapid, blitz, or lightning modes.
+- Have additional capabilities for saving and loading games (max 3 games), player resignation, and player handshake.
+- Use a simple sequential text file to store moves.
+- Optionally, allow loading with replay (bonus).
+- Time the game according to the chosen mode.
+- Implement a text-based interface (minimum requirement) with standard coordinates for input.
+
+### Interface (Graphics-Based - Bonus)
+Optionally, you can implement a graphical interface using external graphics libraries. This is above and beyond the minimum requirement.
