@@ -29,7 +29,7 @@ To play the chess game, follow these steps:
 
 3. Run the executable to start the game.
 
-4. Follow the on-screen instructions to make your moves and enjoy the game.
+4. Enter the source coordinates to pick a piece and the destination coordinates to place the piece e.g. 7a6a
 
 ## Code Sample
 
