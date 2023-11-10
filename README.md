@@ -1,2 +1,2 @@
 # Programming-Fundamentals-C++
-Fundamental C++ Programming Concepts and Examples. All the assignments and/or lab material codes done in 2022 Fall in FAST-NU Lahore
+Fundamental C++ Programming Concepts and Examples. All the assignments and/or lab material done in Fall of 2022 in FAST-NU Lahore
