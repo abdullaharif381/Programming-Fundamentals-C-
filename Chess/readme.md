@@ -31,7 +31,7 @@ To play the chess game, follow these steps:
 
 4. Enter the source coordinates to pick a piece and the destination coordinates to place the piece e.g. 7a6a
 
-## Code Sample
+## Console Sample Run
 
 Here's a snippet of the chessboard:
 ![Alt Text](https://github.com/abdullaharif381/Programming-Fundamentals-CPP/blob/main/Chess/console_image_chess.png)
